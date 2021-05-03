@@ -1,4 +1,4 @@
-I'm currently a freshman at the Faculty of ICT, Mahidol University.
+
 
 
 <!---

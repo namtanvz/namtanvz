@@ -1,5 +1,5 @@
-![namtanvz's GitHub stats](https://github-readme-stats.vercel.app/api?username=namtanvz&show_icons=false&theme=react&hide_title=false&custom_title=My-Github-Stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=namtanvz&theme=react&hide_title=false&layout=default&custom_title=My-Coding-Stats)](https://github.com/anuraghazra/github-readme-stats)
+![namtanvz's GitHub stats](https://github-readme-stats.vercel.app/api?username=namtanvz&show_icons=false&theme=react&hide_title=true&custom_title=My-Github-Stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=namtanvz&theme=react&hide_title=true&layout=default&custom_title=My-Coding-Stats)](https://github.com/anuraghazra/github-readme-stats)
 
 
 

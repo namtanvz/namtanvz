@@ -1,4 +1,4 @@
-![namtanvz's GitHub stats](https://github-readme-stats.vercel.app/api?username=namtanvz&show_icons=false&theme=react&hide_title=false&custom_title="My Github Stats")
+![namtanvz's GitHub stats](https://github-readme-stats.vercel.app/api?username=namtanvz&show_icons=false&theme=react&hide_title=false&custom_title="MyGithubStats")
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=namtanvz&theme=react&hide_title=true&layout=default)](https://github.com/anuraghazra/github-readme-stats)
 
 

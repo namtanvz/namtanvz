@@ -10,5 +10,5 @@ A `Data Science` enthusiast 📊. Fascinated by everything `ML/DL` related.
 </div>
 
 <a href="https://linkedin.com/in/nubthongwor">
-  <img align="left" width="20px" <i class="fab fa-linkedin-in"></i> />
+  <img align="left" width="20px" src="https://cdn0.iconfinder.com/data/icons/shift-logotypes/32/Linkedin-512.png" />
 </a>

@@ -1,7 +1,7 @@
 <!-- Badges template - https://github.com/badges/shields -->
-<p align="center">
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=1DA1F2&lines=Welcome+to+my+profile!)](https://git.io/typing-svg)
-</p>
+
 
 <p align="center">
     <a href="https://twitter.com/namtanvz">

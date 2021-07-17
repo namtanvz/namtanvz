@@ -13,5 +13,5 @@ A `Data Science` enthusiast 📊. Fascinated by everything `ML/DL` related.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nubthongwor/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-
+  <a href="https://twitter.com/namtanvz/"><img src="https://img.shields.io/badge/-twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white" /> </a>
 </p>

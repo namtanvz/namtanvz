@@ -2,6 +2,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=1DA1F2&lines=Welcome+to+my+profile!)](https://git.io/typing-svg)
 
+![namtanvz's GitHub stats](https://github-readme-stats.vercel.app/api?username=namtanvz&show_icons=false&theme=react&hide_title=true&custom_title=My-Github-Stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=namtanvz&theme=react&hide_title=true&layout=compact&custom_title=My-Coding-Stats)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="center">
     <a href="https://twitter.com/namtanvz">

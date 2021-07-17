@@ -9,3 +9,4 @@ A `Data Science` enthusiast 📊. Fascinated by everything `ML/DL` related.
 <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=namtanvz&theme=default&hide_border=true&hide_title=true&layout=default&custom_title=My-Coding-Stats)"/>
 </div>
 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=appveyor&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nubthongwor/)](https://www.linkedin.com/in/nubthongwor)

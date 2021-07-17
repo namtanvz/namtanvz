@@ -7,8 +7,11 @@ A `Data Science` enthusiast 📊. Fascinated by everything `ML/DL` related.
 <div align="left">
 <img height="175em" src="https://github-readme-stats.vercel.app/api?username=namtanvz&show_icons=false&theme=default&hide_border=true&hide_title=true&custom_title=MyGithubStats") />
 <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=namtanvz&theme=default&hide_border=true&hide_title=true&layout=default&custom_title=My-Coding-Stats)"/>
-</div>
-----
+</div>  
+
+----  
+
 <p align="center">
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=appveyor&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nubthongwor/)](https://www.linkedin.com/in/nubthongwor)
+  <a href="https://www.linkedin.com/in/nubthongwor/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
 </p>

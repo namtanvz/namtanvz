@@ -1,5 +1,5 @@
 # Welcome to my profile! :smiley:  
-### About me 😃
+## About me 😃
 
 I'm a second year student at **Faculty of Information and Communication Technology, Mahidol University, Thailand.** 🎓  
 
@@ -10,8 +10,8 @@ A `Data Science` enthusiast 📊 with an intention to be a `Front-end` Developer
 <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=namtanvz&theme=default&hide_border=true&hide_title=true&layout=default&custom_title=My-Coding-Stats)"/>
 </div>  
 
-----  
-### Working on 
+
+## Working on 
 <p align="center">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></p>

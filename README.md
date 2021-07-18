@@ -10,8 +10,12 @@ A `Data Science` enthusiast 📊 with an intention to be a `Front-end` Developer
 </div>  
 
 ----  
-
+### Working on 
 <p align="center">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /></p>
+  
+----
+ <p align="center">
   <a href="https://www.linkedin.com/in/nubthong-worathong/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://twitter.com/namtanvz/"><img src="https://img.shields.io/badge/twitter-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=twitter&logoColor=white" /> </a>
 </p>

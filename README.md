@@ -1,4 +1,5 @@
-# Welcome to my profile! :smiley:
+# Welcome to my profile! :smiley:  
+### About me 😃
 
 I'm a second year student at **Faculty of Information and Communication Technology, Mahidol University, Thailand.** 🎓  
 
@@ -12,7 +13,8 @@ A `Data Science` enthusiast 📊 with an intention to be a `Front-end` Developer
 ----  
 ### Working on 
 <p align="center">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /></p>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></p>
   
 ----
  <p align="center">

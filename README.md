@@ -18,7 +18,7 @@ A `Data Science` enthusiast 📊 with an intention to be a `Front-end` Developer
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
 <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
-<img src="https://img.shields.io/badge/-Python-#4B8BBE?style=for-the-badge&logo=Python&logoColor=white" />
+<img src="https://img.shields.io/badge/-Python-4B8BBE?style=for-the-badge&logo=Python&logoColor=white" />
 </p>
   
 ----

@@ -1,6 +1,6 @@
 # Welcome to my profile! :smiley:
 
-Currently a Sophomore at **Faculty of Information and Communication Technology, Mahidol University, Thailand.** 🎓  
+I'm a second year student at **Faculty of Information and Communication Technology, Mahidol University, Thailand.** 🎓  
 
 A `Data Science` enthusiast 📊. Fascinated by everything `ML/DL` related.
 

@@ -11,7 +11,7 @@ A `Data Science` enthusiast 📊 with an intention to be a `Front-end` Developer
 
 
 ## Working on 
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/-C-3949AB?style=for-the-badge&logo=C&logoColor=white" />
   <img src="https://img.shields.io/badge/-Python-4B8BBE?style=for-the-badge&logo=Python&logoColor=white" />
   <img src="https://img.shields.io/badge/-JAVA-f89820?style=for-the-badge&logo=JAVA&logoColor=white" />

@@ -1,5 +1,4 @@
-# Welcome to my profile! :smiley:  
-## About me 😃
+# About me 😃
 
 I'm a second year student at **Faculty of Information and Communication Technology, Mahidol University, Thailand.** 🎓  
 

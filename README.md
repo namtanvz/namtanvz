@@ -2,7 +2,6 @@
 
 I'm a second year student at **Faculty of Information and Communication Technology, Mahidol University, Thailand.** 🎓  
 
-- A `Data Science` enthusiast 📊
 
 <div align="center">
   <img height="175em" src="https://github-readme-stats.vercel.app/api?username=namtanvz&show_icons=false&theme=default&hide_border=true&hide_title=true&custom_title=MyGithubStats") />

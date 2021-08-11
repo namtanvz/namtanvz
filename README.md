@@ -22,7 +22,7 @@ I'm a second year student at **Faculty of Information and Communication Technolo
   <img src="https://img.shields.io/badge/-GIT-F4511E?style=for-the-badge&logo=git&logoColor=white" /> ---> 
 </p>
   
-----
+
  <p align="center">
   <a href="https://www.linkedin.com/in/nubthong-worathong/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://twitter.com/namtanvz/"><img src="https://img.shields.io/badge/twitter-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=twitter&logoColor=white" /> </a>

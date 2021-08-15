@@ -1,4 +1,4 @@
-# About me 😃 <img align="right" src="https://visitor-badge.glitch.me/badge?page_id=namtanvz" alt="visitor" />
+# Hi! 🐱 
 
 I'm a second year student at **Faculty of Information and Communication Technology, Mahidol University, Thailand.** 🎓  
 

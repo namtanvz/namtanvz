@@ -1,4 +1,4 @@
-# Hi! 🐱 
+# Greetings!
 
 I'm a second year student at **Faculty of Information and Communication Technology, Mahidol University, Thailand.** 🎓  
 

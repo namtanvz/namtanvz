@@ -1,6 +1,6 @@
 # Greetings!
 
-Rising junior at [MUICT](https://www.ict.mahidol.ac.th/) 🎓  
+undergraduate student at [MUICT](https://www.ict.mahidol.ac.th/) 🎓  
 
 
 <div align="center">
@@ -23,7 +23,7 @@ Rising junior at [MUICT](https://www.ict.mahidol.ac.th/) 🎓
 </p>
  --->
 
-## Let's connect!
+## How to reach me!
  <p align="center">
   <a href="https://www.linkedin.com/in/nubthong-worathong/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://twitter.com/namtanvz/"><img src="https://img.shields.io/badge/twitter-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=twitter&logoColor=white" /> </a>

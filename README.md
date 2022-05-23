@@ -1,6 +1,6 @@
 # Greetings!
 
-I'm a second year student at [Faculty of Information and Communication Technology, Mahidol University, Thailand](https://www.ict.mahidol.ac.th/) 🎓  
+I'm a second year student at [Faculty of ICT, Mahidol University](https://www.ict.mahidol.ac.th/) 🎓  
 
 
 <div align="center">

@@ -1,6 +1,6 @@
 # Greetings!
 
-I'm a second year student at [Faculty of ICT, Mahidol University](https://www.ict.mahidol.ac.th/) 🎓  
+Rising junior at [MUICT](https://www.ict.mahidol.ac.th/) 🎓  
 
 
 <div align="center">

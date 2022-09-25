@@ -19,7 +19,7 @@ undergraduate student at [MUICT](https://www.ict.mahidol.ac.th/) 🎓
 </p>
 
 ### For ML/DL
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/>
@@ -30,7 +30,7 @@ undergraduate student at [MUICT](https://www.ict.mahidol.ac.th/) 🎓
 
 
 ### For Web Development
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />  
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
@@ -40,7 +40,7 @@ undergraduate student at [MUICT](https://www.ict.mahidol.ac.th/) 🎓
  </p>
 
  ### IDEs
- <p align="center">
+ <p align="left">
     <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/> 
     <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important"/>
     <img src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white"/>
@@ -48,7 +48,7 @@ undergraduate student at [MUICT](https://www.ict.mahidol.ac.th/) 🎓
   </p>
 
   ### Frameworks
- <p align="center">
+ <p align="left">
     <img src="https://img.shields.io/badge/p5.js-ED225D?style=for-the-badge&logo=p5.js&logoColor=FFFFFF"/>
     <img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white"/>
   </p>
@@ -58,7 +58,7 @@ undergraduate student at [MUICT](https://www.ict.mahidol.ac.th/) 🎓
   <img src="https://img.shields.io/badge/-C-3949AB?style=for-the-badge&logo=C%2B%2B&logoColor=white" /> -->
 
 ## Find me also on these platforms!
-  <p align="center">
+  <p align="left">
     <a href="https://app.datacamp.com/profile/namtanvz"><img src="https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=65FF8F" /> </a>
     <a href="https://www.coursera.org/user/b13b29518812f963091a89883b612bbb"><img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white"/> </a>
     <a href="https://www.codingame.com/profile/09eab4b253696c2f7faaf43c6e7ffab87315263"> <img src="https://img.shields.io/badge/CodinGame-F2BB13?style=for-the-badge&logo=codingame&logoColor=white"/></a>
@@ -68,7 +68,7 @@ undergraduate student at [MUICT](https://www.ict.mahidol.ac.th/) 🎓
 </p>
   
 ## How to reach me!
- <p align="center">
+ <p align="left">
   <a href="https://www.linkedin.com/in/nubthong-worathong/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://twitter.com/namtanvz/"><img src="https://img.shields.io/badge/twitter-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=twitter&logoColor=white" /> </a>
 </p>

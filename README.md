@@ -25,14 +25,14 @@ undergraduate student at [MUICT](https://www.ict.mahidol.ac.th/) 🎓
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
  </p>
   
-  <img src="https://img.shields.io/badge/-JAVA-f89820?style=for-the-badge&logo=JAVA&logoColor=white" />
+<!--   <img src="https://img.shields.io/badge/-JAVA-f89820?style=for-the-badge&logo=JAVA&logoColor=white" />
   <img src="https://img.shields.io/badge/-GIT-F4511E?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/-C-3949AB?style=for-the-badge&logo=C%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/-C-3949AB?style=for-the-badge&logo=C%2B%2B&logoColor=white" /> -->
 
 ## Find me also on these platforms!
   <p align="center">
     <a href="https://app.datacamp.com/profile/namtanvz"><img src="https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=65FF8F" /> </a>
-      <a href="https://www.coursera.org/user/b13b29518812f963091a89883b612bbb"><https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white" /> </a>
+      <a href="https://www.coursera.org/user/b13b29518812f963091a89883b612bbb"><img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white"/> </a>
 </p>
   
 ## How to reach me!

@@ -8,7 +8,6 @@ undergraduate student at [MUICT](https://www.ict.mahidol.ac.th/) 🎓
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=namtanvz&theme=compact&hide_border=true&hide_title=true&layout=compact&custom_title=My-Coding-Stats)"/>
 </div>  
 
-<!---
 ## Tech Stacks
 <p align="center">
   <img src="https://img.shields.io/badge/-C-3949AB?style=for-the-badge&logo=C%2B%2B&logoColor=white" />
@@ -21,7 +20,7 @@ undergraduate student at [MUICT](https://www.ict.mahidol.ac.th/) 🎓
   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
   <img src="https://img.shields.io/badge/-GIT-F4511E?style=for-the-badge&logo=git&logoColor=white" />  
 </p>
- --->
+
 
 ## How to reach me!
  <p align="center">

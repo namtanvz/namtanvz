@@ -8,6 +8,7 @@ undergraduate student at [MUICT](https://www.ict.mahidol.ac.th/) 🎓
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=namtanvz&theme=compact&hide_border=true&hide_title=true&layout=compact&custom_title=My-Coding-Stats)"/>
 </div>  
 
+<!-- 
 ## Tech Stacks
 ### Languages
 <p align="left">
@@ -53,7 +54,7 @@ undergraduate student at [MUICT](https://www.ict.mahidol.ac.th/) 🎓
     <img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white"/>
   </p>
   
-<!--   
+  
   <img src="https://img.shields.io/badge/-GIT-F4511E?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/-C-3949AB?style=for-the-badge&logo=C%2B%2B&logoColor=white" /> -->
 

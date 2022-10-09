@@ -55,7 +55,9 @@ undergraduate student at [MUICT](https://www.ict.mahidol.ac.th/) 🎓
   
   
   <img src="https://img.shields.io/badge/-GIT-F4511E?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/-C-3949AB?style=for-the-badge&logo=C%2B%2B&logoColor=white" /> -->
+  <img src="https://img.shields.io/badge/-C-3949AB?style=for-the-badge&logo=C%2B%2B&logoColor=white" /> 
+
+-->
 
 ## Find me also on these platforms!
   <p align="left">
@@ -64,9 +66,8 @@ undergraduate student at [MUICT](https://www.ict.mahidol.ac.th/) 🎓
     <a href="https://www.codingame.com/profile/09eab4b253696c2f7faaf43c6e7ffab87315263"> <img src="https://img.shields.io/badge/CodinGame-F2BB13?style=for-the-badge&logo=codingame&logoColor=white"/></a>
     <a href="https://www.kaggle.com/namtanvz"> <img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
     <a href="https://www.udemy.com/user/nubthong-worathong/"> <img src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white"/></a>
-
   </p>
---- 
+
 ## How to reach me!
  <p align="left">
   <a href="https://www.linkedin.com/in/nubthong-worathong/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>

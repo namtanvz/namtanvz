@@ -7,7 +7,7 @@ undergraduate student at [MUICT](https://www.ict.mahidol.ac.th/) 🎓
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=namtanvz&theme=compact&hide_border=true&hide_title=true&layout=compact>
 </div>
 
-<!-- 
+<!--
 
 ## Tech Stacks
 ### Languages
@@ -29,7 +29,6 @@ undergraduate student at [MUICT](https://www.ict.mahidol.ac.th/) 🎓
   <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white"/>
 
 </p>
-
 
 ### For Web Development
 <p align="left">
@@ -66,7 +65,7 @@ undergraduate student at [MUICT](https://www.ict.mahidol.ac.th/) 🎓
     <a href="https://www.kaggle.com/namtanvz"> <img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
     <a href="https://www.udemy.com/user/nubthong-worathong/"> <img src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white"/></a>
 
-</p>
+  </p>
 -->
 ## How to reach me!
  <p align="left">

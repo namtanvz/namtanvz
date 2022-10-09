@@ -3,7 +3,7 @@
 undergraduate student at [MUICT](https://www.ict.mahidol.ac.th/) 🎓  
 
 <div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=namtanvz&show_icons=true&theme=radical">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=namtanvz&show_icons=true&theme=default">
 </div>
 <!-- 
 <div align="center">

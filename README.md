@@ -62,10 +62,8 @@ undergraduate student at [MUICT](https://www.ict.mahidol.ac.th/) 🎓
 ## Find me also on these platforms!
   <p align="left">
     <a href="https://app.datacamp.com/profile/namtanvz"><img src="https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=65FF8F" /> </a>
-    <a href="https://www.coursera.org/user/b13b29518812f963091a89883b612bbb"><img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white"/> </a>
     <a href="https://www.codingame.com/profile/09eab4b253696c2f7faaf43c6e7ffab87315263"> <img src="https://img.shields.io/badge/CodinGame-F2BB13?style=for-the-badge&logo=codingame&logoColor=white"/></a>
     <a href="https://www.kaggle.com/namtanvz"> <img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
-    <a href="https://www.udemy.com/user/nubthong-worathong/"> <img src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white"/></a>
   </p>
 
 ## How to reach me!

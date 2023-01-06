@@ -7,7 +7,7 @@ undergraduate student at [MUICT](https://www.ict.mahidol.ac.th/) 🎓
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=namtanvz&layout=compact&theme=default&hide_border=true">
 </div>
 
-<!--
+
 
 ## Tech Stacks
 ### Languages
@@ -57,7 +57,7 @@ undergraduate student at [MUICT](https://www.ict.mahidol.ac.th/) 🎓
   <img src="https://img.shields.io/badge/-GIT-F4511E?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/-C-3949AB?style=for-the-badge&logo=C%2B%2B&logoColor=white" /> 
 
--->
+
 
 ## Find me also on these platforms!
   <p align="left">

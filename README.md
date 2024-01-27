@@ -2,11 +2,9 @@
 
 undergraduate student at [MUICT](https://www.ict.mahidol.ac.th/) 🎓  
 <div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=namtanvz&show_icons=true&theme=default&hide_border=true">
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=namtanvz&layout=compact&theme=default&hide_border=true">
-  [![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool)](https://leetcode.com/JacobLinCool)
 </div>
-
+[![Leetcode Stats](https://leetcard.jacoblin.cool/namtanvz?ext=heatmap)](https://leetcode.com/namtanvz)
 
 
 ## Tech Stacks

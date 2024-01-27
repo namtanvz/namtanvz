@@ -1,11 +1,11 @@
 # Greetings!
 
 undergraduate student at [MUICT](https://www.ict.mahidol.ac.th/) 🎓  
-<div align="center">
+<div align='center'>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=namtanvz&layout=compact&theme=default&hide_border=true">
-</div>
-[![Leetcode Stats](https://leetcard.jacoblin.cool/namtanvz?ext=heatmap)](https://leetcode.com/namtanvz)
 
+[![Leetcode Stats](https://leetcard.jacoblin.cool/namtanvz?theme=wtf?border=0)](https://leetcode.com/namtanvz)
+</div>
 
 ## Tech Stacks
 ### Languages
@@ -69,4 +69,3 @@ undergraduate student at [MUICT](https://www.ict.mahidol.ac.th/) 🎓
   <a href="https://www.linkedin.com/in/nubthong-worathong/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
- -->

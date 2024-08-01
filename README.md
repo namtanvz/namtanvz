@@ -1,7 +1,7 @@
 # Greetings!
 
-4th year computer science student at [MUICT](https://www.ict.mahidol.ac.th/) 🎓
-undersupervison of [Nor](https://northanapon.github.io/) 🐤
+Graduated Computer Science student -> [MUICT](https://www.ict.mahidol.ac.th/) 🎓
+Advisor -> [Nor](https://northanapon.github.io/) 🐤
 
 <div align='center'>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=namtanvz&layout=compact&theme=default&hide_border=true">

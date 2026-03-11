@@ -3,11 +3,11 @@
 Graduated Computer Science student -> [MUICT](https://www.ict.mahidol.ac.th/) 🎓
 Advisor -> [Nor](https://northanapon.github.io/) 🐤
 
-<div align='flex'>
+<div align='center'>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=namtanvz&layout=compact&theme=default&hide_border=true">
     <img src="https://leetcard.jacoblin.cool/namtanvz?theme=wtf?border=0">
 </div>
-[![Leetcode Stats](https://leetcard.jacoblin.cool/namtanvz?theme=wtf?border=0)](https://leetcode.com/namtanvz)
+
 
 
 ## Tech Stacks

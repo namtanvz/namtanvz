@@ -3,9 +3,11 @@
 Graduated Computer Science student -> [MUICT](https://www.ict.mahidol.ac.th/) 🎓
 Advisor -> [Nor](https://northanapon.github.io/) 🐤
 
-<div align='center'>
+<div align='flex'>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=namtanvz&layout=compact&theme=default&hide_border=true">
+    <img src="https://leetcard.jacoblin.cool/namtanvz?theme=wtf?border=0">
 </div>
+[![Leetcode Stats](https://leetcard.jacoblin.cool/namtanvz?theme=wtf?border=0)](https://leetcode.com/namtanvz)
 
 
 ## Tech Stacks
@@ -55,5 +57,3 @@ Advisor -> [Nor](https://northanapon.github.io/) 🐤
 ![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
-
-[![Leetcode Stats](https://leetcard.jacoblin.cool/namtanvz?theme=wtf?border=0)](https://leetcode.com/namtanvz)
